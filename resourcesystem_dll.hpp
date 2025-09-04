@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-07-16 21:26:27.642914700 UTC
+// 2025-09-04 01:07:34.878321700 UTC
 
 #pragma once
 
@@ -8,7 +8,7 @@
 namespace cs2_dumper {
     namespace schemas {
         // Module: resourcesystem.dll
-        // Class count: 59
+        // Class count: 58
         // Enum count: 2
         namespace resourcesystem_dll {
             // Alignment: 1
@@ -156,14 +156,6 @@ namespace cs2_dumper {
             namespace InfoForResourceTypeCVoxelVisibility {
             }
             // Parent: None
-            // Field count: 1
-            //
-            // Metadata:
-            // MGetKV3ClassDefaults
-            namespace TestResource_t {
-                constexpr std::ptrdiff_t m_name = 0x0; // CUtlString
-            }
-            // Parent: None
             // Field count: 0
             //
             // Metadata:
@@ -258,7 +250,7 @@ namespace cs2_dumper {
             //
             // Metadata:
             // MResourceTypeForInfoType
-            namespace InfoForResourceTypeTestResource_t {
+            namespace InfoForResourceTypeCTestResourceData {
             }
             // Parent: None
             // Field count: 0
@@ -300,7 +292,7 @@ namespace cs2_dumper {
             //
             // Metadata:
             // MResourceTypeForInfoType
-            namespace InfoForResourceTypeCNmGraphVariation {
+            namespace InfoForResourceTypeCSurfaceGraph {
             }
             // Parent: None
             // Field count: 0
